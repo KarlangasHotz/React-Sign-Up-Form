@@ -10,10 +10,6 @@ import Button from "./button.js"
 
 
 
-
-
-
-
 function App() {
   return (
       <Main>
