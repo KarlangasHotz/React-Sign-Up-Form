@@ -9,6 +9,7 @@ const Input =()=> {
     window.addEventListener("keydown", (e)=>{  
 
       const fN = document.querySelector(".fn");
+      console.log(fN)
       const lN = document.querySelector(".ln");
       
       if (e.code === "Enter"){

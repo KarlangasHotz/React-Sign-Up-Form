@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Sign-Up-Form/static/css/main.d43cf354.css",
+    "main.js": "/React-Sign-Up-Form/static/js/main.914aa4eb.js",
+    "static/media/DibujoNicoRecortado.jpeg": "/React-Sign-Up-Form/static/media/DibujoNicoRecortado.4dc6a3b62904efd3b763.jpeg",
+    "index.html": "/React-Sign-Up-Form/index.html",
+    "main.d43cf354.css.map": "/React-Sign-Up-Form/static/css/main.d43cf354.css.map",
+    "main.914aa4eb.js.map": "/React-Sign-Up-Form/static/js/main.914aa4eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d43cf354.css",
+    "static/js/main.914aa4eb.js"
+  ]
+}

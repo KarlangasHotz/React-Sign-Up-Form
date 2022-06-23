@@ -28,7 +28,7 @@ div .btn:hover{
     animation-duration: 0.5s;
     animation-fill-mode: forwards;
     align-self: center;
-    box-shadow:  0 0 0 10px #D568A8;
+    box-shadow:  0 0 0 4px #D568A8;
 
 }
 

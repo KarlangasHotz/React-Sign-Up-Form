@@ -2,6 +2,9 @@
 header{
     position: relative;
     min-height: 21px;
+    max-height: 22px;
+    min-width: 605px;
+    max-width: 606px;
     font-size: 1.2rem;
 }
 
